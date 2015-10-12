@@ -1,10 +1,13 @@
-## Simple search console text search application
+﻿## Simple console text search application
 
-Using pattern:
+
+###Using pattern:
 
 TextSearch "root path" "file type" "Search line"
 
-Example:
+
+###Example:
 
 TextSearch "C:\Tests\TextSearch" "*.txt" "Строка поиска"
+
 TextSearch "C:\Tests\TextSearch" "*.*" "สตริงการค้นหา"
