@@ -1,0 +1,8 @@
+Новая папка
+*.sublime-settings
+bin
+obj
+*.vshost.exe*
+*.pdb
+*.csproj.user
+
